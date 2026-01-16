@@ -1,6 +1,9 @@
 ---
-layout: post
-title: Blogging Like a Hacker
+layout: default
+title: Meine Homepage
+author: Andrea Stelzmüller
 ---
 
 <h1>{{page.title}}</h1>
+<h2>{{page.author}}</h2>
+<p>Normaler Text</p>
