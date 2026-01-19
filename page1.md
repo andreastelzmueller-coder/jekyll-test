@@ -10,4 +10,4 @@ Normaler ***das wird fett*** und das _italic_
 das wird eine liste
 - erste Zeile
 - zweite Zeile
-Das ist ein Link: [khevi](khev.at)
+Das ist ein Link: [khevi](//khev.at)
