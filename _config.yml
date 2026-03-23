@@ -69,3 +69,8 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+title: "Andrea Web-Site"
+description: "Medien-Suche mit APIs"
+
+giphy_key: "hg563HEXfNJcTBthWLDG5iMSZnWSBeT6"
+apileague_key: "https://api.apileague.com/search-memes"
